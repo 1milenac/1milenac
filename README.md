@@ -10,9 +10,9 @@ PhD researcher at the University of Leeds. I build cloud-native pipelines that t
 
 <!-- EDIT: replace with your real links -->
 <p align="center">
-  <a href="https://your-username.github.io"><img src="https://img.shields.io/badge/Portfolio-1F6B4F?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-3E7CA6?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-6FA35A?style=for-the-badge" alt="Email"></a>
+  <a href="https://1milenac.github.io/1milenac/"><img src="https://img.shields.io/badge/Portfolio-1F6B4F?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/milena-cudak-642a75120"><img src="https://img.shields.io/badge/LinkedIn-3E7CA6?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:milenacudak96@gmail.com"><img src="https://img.shields.io/badge/Email-6FA35A?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
